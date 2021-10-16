@@ -24,7 +24,7 @@ While **we'll primarily use resource-updates to let you know about changes to th
 For this secondary purpose, we're especially interested in hidden updates. Sometimes little things are enabled or fixed or created, and we find out through word of mouth because they aren't officially announced on Jcink's support forum, only revealed in topic replies. This channel can help us spread the information a little bit further.  An example:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Topic Starter Group ID and Last Replier Group ID variables enabled in topic rows 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (https://forum.jcink.com/index.php?showtopic=35075&st=0&#entry237804)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (https://forum.jcink.com/index.php?showtopic=35075&st=0&#entry237804)
 
 Features and fixes should be official, meaning from the Jcink team themselves, usually found somewhere on the support forum, not always in the official documentation. We will not be announcing workarounds or scripts supplied by the awesome people who help out on the support forum.
 
