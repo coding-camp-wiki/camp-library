@@ -1,15 +1,18 @@
 # RESOURCE LIBRARY
-Our resource section is a staff-managed collection of tools, programs, websites, tutorials, etc. to facilitate coding and learning.
+Our resource section is a staff-managed collection of tools, programs, websites, tutorials, etc. to facilitate coding and learning. Also affectionately referred to as the **Camp Library**!
 
 # ABOUT THE LIBRARY
 
 Please look through and use whatever you want, and if you have a suggestion for something we don't have listed, send us a message in contact-staff within the Coding Camp discord. 
 
-coding-tools — the various websites and things we use or recommend for coding, including live editors and tutorials
+### Coding Title Here 
+The various websites and things we use or recommend for coding, including live editors and tutorials
 
-design-tools — websites and things we use or recommend to enhance coding (e.g., font icons, texture sites, free image sites, etc.) * 
+### Design Title Here
+Websites and things we use or recommend to enhance coding (e.g., font icons, texture sites, free image sites, etc.) * 
 
-communities — Jcink sites or servers you can join to connect with other Jcink creators. While we've listed a bunch of resources in the above channels, these communities have even more, especially in terms of specific scripts, coding snippets, and tutorials. 
+### Communities 
+Jcink sites or servers you can join to connect with other Jcink creators. While we've listed a bunch of resources in the above catagories, these communities have even more, especially in terms of specific scripts, coding snippets, and tutorials. 
 
 (Note about Jcink-specific tutorials: We don't want to list every single one that exists, but we'll consider highly requested ones as we go — kind of like an FAQ.) 
 
