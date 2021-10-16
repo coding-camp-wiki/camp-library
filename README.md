@@ -3,16 +3,28 @@ The camp library houses our resource section and is a staff-managed collection o
 
 # ABOUT THE LIBRARY
 
-Please look through and use whatever you want, and if you have a suggestion for something we don't have listed, send us a message in contact-staff within the Coding Camp discord. 
+Please look through and use whatever you want, and if you have a suggestion for something we don't have listed, send us a message in **contact-staff** within the Coding Camp discord. The repo can be filtered using the tag system, an overview of which is below:
 
-### Coding Title Here 
+### coding-tools 
 The various websites and things we use or recommend for coding, including live editors and tutorials
 
-### Design Title Here
+### design-tools*
 Websites and things we use or recommend to enhance coding (e.g., font icons, texture sites, free image sites, etc.) * 
 
-### Communities 
+### communities 
 Jcink sites or servers you can join to connect with other Jcink creators. While we've listed a bunch of resources in the above catagories, these communities have even more, especially in terms of specific scripts, coding snippets, and tutorials. 
+
+### camper-submission
+Exactly as it says on the tin, this was a camper submission delivered through the server. This tag will not be applied reteroactivity, so will only appear on submissions given after this repo went live.
+
+### recently-added
+These resources were added within the last month. This is to allow ease of access to any updates / additions to the library. Staff will occasionally come in and remove this tag from older submissions.
+
+### bug
+This resource isn't working as expected. If it has this tag then staff are aware of the issue and may be looking at an alterntive or replacement resource.
+
+### 404-error
+This resource no longer exists or is no longer live. If it has this tag then staff are aware of the issue and may be looking at an alternative or replacement resource.
 
 (Note about Jcink-specific tutorials: We don't want to list every single one that exists, but we'll consider highly requested ones as we go — kind of like an FAQ.) 
 
