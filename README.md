@@ -1,5 +1,5 @@
-# RESOURCE LIBRARY
-Our resource section is a staff-managed collection of tools, programs, websites, tutorials, etc. to facilitate coding and learning. Also affectionately referred to as the **Camp Library**!
+# CAMP LIBRARY
+Our resource section is a staff-managed collection of tools, programs, websites, tutorials, etc. to facilitate coding and learning.
 
 # ABOUT THE LIBRARY
 
