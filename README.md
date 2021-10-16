@@ -1,5 +1,5 @@
 # CAMP LIBRARY
-Our resource section is a staff-managed collection of tools, programs, websites, tutorials, etc. to facilitate coding and learning.
+The camp library houses our resource section and is a staff-managed collection of tools, programs, websites, tutorials, etc. to facilitate coding and learning. These have been pulled from the camp library on our server, and will serve to replace that in-server feature. 
 
 # ABOUT THE LIBRARY
 
