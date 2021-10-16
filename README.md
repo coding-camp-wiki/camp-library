@@ -3,7 +3,7 @@ The camp library houses our resource section and is a staff-managed collection o
 
 # ABOUT THE LIBRARY
 
-Please look through and use whatever you want, and if you have a suggestion for something we don't have listed, send us a message in **contact-staff** within the Coding Camp discord. The repo can be filtered using the tag system, an overview of which is below:
+Please look through and use whatever you want, and if you have a suggestion for something we don't have listed, send us a message in **contact-staff** within the Coding Camp discord. The repo can be filtered using the tag system, an overview of which are below:
 
 ### coding-tools 
 The various websites and things we use or recommend for coding, including live editors and tutorials
